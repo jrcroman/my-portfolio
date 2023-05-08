@@ -12,6 +12,7 @@ Features:
 - SwiftUI and Kotlin/Jet Pack Compose
 - Firebase integration (Authentification & Firestore)
 - CoreBluetooth and Bluetooth Low Energy (BLE) Android built-in
+- MVVM architecture
 - Unit testing with XCTest
 
 Screenshots
