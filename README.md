@@ -6,7 +6,7 @@ Welcome to my app portfolio! Here, you'll find a collection of some of the apps 
 
 ### [FastKrono](https://www.fastkrono.com/)
 
-FastKrono develops timing systems to drive athletes’ performance in sports with the latest advances in IoT technology. The FastKrono App let´s you control and interact with the timing system via Bluetooth to configure races and exercicies. I was the responsible for the entire app development process from prototyping to launch and maintenance after customers feedback.
+FastKrono develops timing systems to drive athletes’ performance in sports with the latest advances in IoT technology. The FastKrono App let´s you control and interact with the timing system via Bluetooth to configure races and exercicies. I was the responsible for the entire native app development process in iOS and Android from prototyping to launch and maintenance after customers feedback.
 
 Features:
 - SwiftUI and Kotlin/Jet Pack Compose
