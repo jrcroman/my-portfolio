@@ -16,4 +16,7 @@ Features:
 - Unit testing with XCTest
 
 Screenshots
-[Include screenshots of the app in action.]
+
+<img src="https://user-images.githubusercontent.com/52671515/236823101-b53dde13-fcd5-4109-8fd4-1f269c3b9a72.jpg" alt="Image Description" style="width:25%; height:auto;"><img src="https://user-images.githubusercontent.com/52671515/236823408-da1d9bf3-6313-4177-b8ff-d9e5b9a23df6.JPG" alt="Image Description" style="width:25%; height:auto;"><img src="https://user-images.githubusercontent.com/52671515/236823451-542dfbc7-bb88-4443-adce-4febe833bb3a.JPG" alt="Image Description" style="width:25%; height:auto;"><img src="https://user-images.githubusercontent.com/52671515/236823478-0ee2b19f-4dd9-4c13-8d93-905692fbf5ad.JPG" alt="Image Description" style="width:25%; height:auto;">
+
+
